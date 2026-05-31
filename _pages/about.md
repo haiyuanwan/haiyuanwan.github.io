@@ -3,7 +3,7 @@ permalink: /
 title: ""
 excerpt: ""
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
@@ -15,44 +15,236 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
+# 👋 About Me
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am currently a PhD student in Data Science and Information Technology at [Tsinghua University](https://www.tsinghua.edu.cn/), devoted to advancing general-purpose agents that can perceive, reason, and act. My main focus is on scientific reasoning, world models, and multi-agent systems. Prior to this, I earned my B.Eng. in Communication Engineering from [East China Normal University](https://www.ecnu.edu.cn/).
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+From May 2025, I have been a Research Intern at the PRIME-RL Team of [Shanghai AI Laboratory](https://www.shlab.org.cn/), where I work on **post-training of foundation models**. Before that, I was a visiting student at the [Qing Yuan Research Institute, Shanghai Jiao Tong University](https://qingyuan.sjtu.edu.cn/).
 
+My recent work spans scientific reasoning, world models and embodied AI, multi-agent systems, and efficient / continual LLMs.
+
+I am actively looking for research collaborations and discussions. Feel free to reach out! ([wanhy24@mails.tsinghua.edu.cn](mailto:wanhy24@mails.tsinghua.edu.cn)).
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2026.04*: 🎉 Two papers accepted to **ICML 2026** ([HiPhO](#paper-hipho), [LabBuilder](#paper-labbuilder)).
+- *2026.04*: 🎉 One paper accepted to **IJCAI 2026** (SDFLoRA).
+- *2026.02*: 🎉 [**P1-VL-235B-A22B**](#paper-p1-vl) released — extending P1 to multimodal physics reasoning with visual perception.
+- *2026.01*: 🎉 One paper accepted to **ICLR 2026** ([From What to Why](#paper-from-what-to-why)).
+- *2025.11*: 🎉 [**P1-235B-A22B**](#paper-p1) released — the first open-source physics reasoning model trained purely via reinforcement learning to attain **gold-medal performance on IPhO 2025**, sweeping **12 Gold + 1 Silver** across 13 international and regional physics olympiads and rivaling frontier closed-source systems such as GPT-5 and Gemini-2.5-Pro.
+- *2025.11*: 🎉 One paper accepted to **AAAI 2026** ([DeepResearch Arena](#paper-deepresearch-arena)).
+- *2025.09*: 🎉 One paper accepted to **NeurIPS 2025** ([Spotlight Attention](#paper-spotlight-attention)).
+- *2025.08*: 🎉 One paper accepted to **EMNLP 2025** ([RECALL](#paper-recall)).
 
-# 📝 Publications 
+# 📖 Education
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class="education-item"><div class="education-logo"><img src="images/tsinghua.png" alt="Tsinghua University" /></div>
+<div class="education-text" markdown="1">
+
+**Sep. 2024 – Jul. 2029 (expected):** **Ph.D.** in Data Science and Information Technology, [**Tsinghua University (THU)**](https://www.tsinghua.edu.cn/), Beijing, China.
+
+</div>
+</div>
+
+<div class="education-item"><div class="education-logo"><img src="images/ecnu.png" alt="East China Normal University" /></div>
+<div class="education-text" markdown="1">
+
+**Sep. 2020 – Jul. 2024:** **B.Eng.** in Communication Engineering, [**East China Normal University (ECNU)**](https://www.ecnu.edu.cn/), Shanghai, China.
+
+</div>
+</div>
+
+# 📑 Technical Report
+
+<div class='paper-box' id="paper-p1"><div class='paper-box-image'><div><div class="badge">Report</div><img src='images/papers/p1.png' alt="P1" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+**P1: Mastering Physics Olympiads with Reinforcement Learning.**
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Shanghai AI Lab PRIME-RL Team · **Haiyuan Wan** (Core Contributor)
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<span style="color:#c00000">*Technical Report, 2026.*</span>
+
+[<i class="fas fa-globe"></i> **Project**](https://prime-rl.github.io/P1/) &nbsp;·&nbsp;
+[<i class="fas fa-file-pdf"></i> **Paper**](https://arxiv.org/pdf/2511.13612) &nbsp;·&nbsp;
+[<i class="fab fa-github"></i> **Code**](https://github.com/PRIME-RL/P1) &nbsp;·&nbsp;
+[<img src="images/icons/huggingface.svg" style="height:1em;vertical-align:-0.15em"> **P1-235B-A22B**](https://huggingface.co/PRIME-RL/P1-235B-A22B) &nbsp;·&nbsp;
+[<img src="images/icons/huggingface.svg" style="height:1em;vertical-align:-0.15em"> **P1-30B-A3B**](https://huggingface.co/PRIME-RL/P1-30B-A3B)
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box' id="paper-p1-vl"><div class='paper-box-image'><div><div class="badge">Report</div><img src='images/papers/p1-vl.png' alt="P1-VL" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**P1-VL: Bridging Visual Perception and Scientific Reasoning in Physics Olympiads.**
+
+Shanghai AI Lab PRIME-RL Team · **Haiyuan Wan**
+
+<span style="color:#c00000">*Technical Report, 2026.*</span>
+
+[<i class="fas fa-globe"></i> **Project**](https://prime-rl.github.io/P1-VL/) &nbsp;·&nbsp;
+[<i class="fas fa-file-pdf"></i> **Paper**](https://arxiv.org/pdf/2602.09443) &nbsp;·&nbsp;
+[<i class="fab fa-github"></i> **Code**](https://github.com/PRIME-RL/P1-VL) &nbsp;·&nbsp;
+[<img src="images/icons/huggingface.svg" style="height:1em;vertical-align:-0.15em"> **P1-VL-235B-A22B**](https://huggingface.co/PRIME-RL/P1-VL-235B-A22B) &nbsp;·&nbsp;
+[<img src="images/icons/huggingface.svg" style="height:1em;vertical-align:-0.15em"> **P1-VL-30B-A3B**](https://huggingface.co/PRIME-RL/P1-VL-30B-A3B)
+</div>
+</div>
+
+# 📝 Selected Publications
+
+<div class='paper-box' id="paper-deepresearch-arena"><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/papers/deepresearcharena.png' alt="DeepResearch Arena" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**DeepResearch Arena: The First Exam of LLMs' Research Abilities via Seminar-Grounded Tasks.**
+
+**Haiyuan Wan**†, Chen Yang†, Junchi Yu, Meiqi Tu, Jiaxuan Lu, Di Yu, Jianbao Cao, Ben Gao, Jiaqing Xie, Aoran Wang, Wenlong Zhang, Philip Torr, Dongzhan Zhou.
+
+<span style="color:#c00000">(† equal contribution) AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2026.</span>
+
+[<i class="fas fa-file-pdf"></i> **Paper**](https://arxiv.org/pdf/2509.01396)
+</div>
+</div>
+
+<div class='paper-box' id="paper-hipho"><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/papers/hipho.png' alt="HiPhO" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**HiPhO: How Far Are (M)LLMs from Humans in the Latest High School Physics Olympiad Benchmark?**
+
+Fangchen Yu†, **Haiyuan Wan**†, Qianjia Cheng†, Yuchen Zhang, Jiacheng Chen, Fujun Han, Yulun Wu, Junchi Yao, Ruilizhen Hu, Ning Ding, Yu Cheng, Tao Chen, Lei Bai, Dongzhan Zhou, Yun Luo, Ganqu Cui, Peng Ye.
+
+<span style="color:#c00000">(† equal contribution) International Conference on Machine Learning (<strong>ICML</strong>), 2026.</span>
+
+[<i class="fas fa-globe"></i> **Project**](https://phyarena.github.io/) &nbsp;·&nbsp;
+[<i class="fas fa-file-pdf"></i> **Paper**](https://arxiv.org/pdf/2509.07894) &nbsp;·&nbsp;
+[<i class="fab fa-github"></i> **Code**](https://github.com/SciYu/HiPhO) &nbsp;·&nbsp;
+[<img src="images/icons/huggingface.svg" style="height:1em;vertical-align:-0.15em"> **Dataset**](https://huggingface.co/datasets/SciYu/HiPhO)
+</div>
+</div>
+
+<div class='paper-box' id="paper-recall"><div class='paper-box-image'><div><div class="badge">EMNLP 2025</div><img src='images/papers/recall.png' alt="RECALL" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**RECALL: REpresentation-aligned Catastrophic-forgetting ALLeviation via Hierarchical Model Merging.**
+
+Bowen Wang†, **Haiyuan Wan**†, Liwen Shi, Chen Yang, Peng He, Yue Ma, Haochen Han, Wenhao Li, Tiao Tan, Yongjian Li, Fangming Liu, Yifan Gong, Sheng Zhang.
+
+<span style="color:#c00000">(† equal contribution) Conference on Empirical Methods in Natural Language Processing (<strong>EMNLP</strong>), 2025.</span>
+
+[<i class="fas fa-file-pdf"></i> **Paper**](https://arxiv.org/pdf/2510.20479)
+</div>
+</div>
+
+<div class='paper-box' id="paper-from-what-to-why"><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/papers/fromwhattowhy.png' alt="From What to Why" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**From What to Why: A Multi-Agent System for Evidence-based Chemical Reaction Condition Reasoning.**
+
+Cheng Yang, Jiaxuan Lu, **Haiyuan Wan**, Junchi Yu, Feiwei Qin.
+
+<span style="color:#c00000">International Conference on Learning Representations (<strong>ICLR</strong>), 2026.</span>
+
+[<i class="fas fa-file-pdf"></i> **Paper**](https://arxiv.org/pdf/2509.23768)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/papers/fromtokenstoframes.png' alt="From Tokens to Frames" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**From Tokens to Frames: Video Generation as a New Paradigm for Spatial Reasoning.**
+
+Cheng Yang†, **Haiyuan Wan**†, Yiran Peng†, Xin Cheng, Zhaoyang Yu, Jiayi Zhang, Junchi Yu, Xinlei Yu, Xiawu Zheng, Dongzhan Zhou, Chenglin Wu.
+
+<span style="color:#c00000">(† equal contribution) <strong>arXiv</strong>, 2025.</span>
+
+[<i class="fas fa-globe"></i> **Project**](https://imyangc7.github.io/VRBench_Web/) &nbsp;·&nbsp;
+[<i class="fas fa-file-pdf"></i> **Paper**](https://arxiv.org/pdf/2511.15065) &nbsp;·&nbsp;
+[<i class="fab fa-github"></i> **Code**](https://github.com/FoundationAgents/VR-Bench) &nbsp;·&nbsp;
+[<img src="images/icons/huggingface.svg" style="height:1em;vertical-align:-0.15em"> **Dataset**](https://huggingface.co/datasets/amagipeng/VR-Bench) &nbsp;·&nbsp;
+[<img src="images/icons/huggingface.svg" style="height:1em;vertical-align:-0.15em"> **Wan-R1**](https://huggingface.co/HY-Wan/Wan-R1)
+</div>
+</div>
+
+<div class='paper-box' id="paper-spotlight-attention"><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/papers/spotlightattention.png' alt="Spotlight Attention" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Spotlight Attention: Towards Efficient LLM Generation via Non-linear Hashing-based KV Cache Retrieval.**
+
+Wenhao Li, Yuxin Zhang, Gen Luo, **Haiyuan Wan**, Ziyang Gong, Fei Chao, Rongrong Ji.
+
+<span style="color:#c00000">Conference on Neural Information Processing Systems (<strong>NeurIPS</strong>), 2025.</span>
+
+[<i class="fas fa-file-pdf"></i> **Paper**](https://arxiv.org/pdf/2508.19740)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/papers/physicsminions.png' alt="PhysicsMinions" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**PhysicsMinions: Winning Gold Medals in the Latest Physics Olympiads with a Coevolutionary Multimodal Multi-Agent System.**
+
+Fangchen Yu†, Junchi Yao†, Ziyi Wang, **Haiyuan Wan**, Youling Huang, Bo Zhang, Shuyue Hu, Dongzhan Zhou, Ning Ding, Ganqu Cui, Lei Bai, Wanli Ouyang, Peng Ye.
+
+<span style="color:#c00000">(† equal contribution) <strong>arXiv</strong>, 2025.</span>
+
+[<i class="fas fa-file-pdf"></i> **Paper**](https://arxiv.org/pdf/2509.24855)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/papers/beyondstatictools.png' alt="Beyond Static Tools" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Beyond Static Tools: Test-Time Tool Evolution for Scientific Reasoning.**
+
+Jiaxuan Lu†, Ziyu Kong†, Yemin Wang†, Rong Fu, **Haiyuan Wan**, Cheng Yang, Wenjie Lou, Haoran Sun, Lilong Wang, Yankai Jiang, Xiaosong Wang, Xiao Sun, Dongzhan Zhou.
+
+<span style="color:#c00000">(† equal contribution) <strong>arXiv</strong>, 2026.</span>
+
+[<i class="fas fa-file-pdf"></i> **Paper**](https://arxiv.org/pdf/2601.07641) &nbsp;·&nbsp;
+[<i class="fab fa-github"></i> **Code**](https://github.com/lujiaxuan0520/Test-Time-Tool-Evol)
+</div>
+</div>
+
+<div class='paper-box' id="paper-labbuilder"><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/papers/labbuilder.png' alt="LabBuilder" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**LabBuilder: Protocol-Grounded 3D Layout Generation for Interactable and Safe Laboratory.**
+
+Jianbao Cao†, Zhangrui Zhao†, Bohan Feng†, Zixuan Hu, Rui Li, **Haiyuan Wan**, Chenxi Li, Jingyuan Li, Wenzhe Cai, Lei Bai, Wanli Ouyang, Lingyu Duan, Di Huang, Mingting Pan, Sha Zhang, Xinzhu Ma, Shixiang Tang, Dongzhan Zhou.
+
+<span style="color:#c00000">(† equal contribution) International Conference on Machine Learning (<strong>ICML</strong>), 2026.</span>
+
+[<i class="fas fa-file-pdf"></i> **Paper**](https://arxiv.org/pdf/2605.02288)
+</div>
+</div>
+
+# 💼 Internships
+
+<div class="internship-logos">
+  <!-- 调整 logo 高度：改 inline style 里的 px 数字即可 -->
+  <img src="images/sail.jpg" alt="Shanghai AI Laboratory" style="height: 50px !important; max-height: 50px !important;" />
+</div>
+
+- **May 2025 – May 2026:** [Shanghai AI Laboratory](https://www.shlab.org.cn/) · Research Intern · PRIME-RL Team · Post-training of foundation models
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- **Junhao Foundation Soaring Scholarship** — Presented by Academician Chu Junhao; the only undergraduate awardee.
+- **ECNU Outstanding Student Special Scholarship** — Sole recipient in the department, awarded for two consecutive years.
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 💬 Services
+- **Reviewer:** ICML, NeurIPS, ICLR, AAAI, ECCV and other top-tier conferences/journals in computer vision, natural language processing, and machine learning.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 📊 Visitor Statistics
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+
+<div class="visitor-stats" style="margin: 2em 0; padding: 1.5em; background: #f8f9fa; border-radius: 8px; border: 1px solid #e9ecef; text-align: center; font-size: 0.95em;">
+  <span style="margin-right: 1.5em;">
+    <i class="fas fa-user" style="margin-right: 0.3em;"></i>
+    Total visitors: <strong id="busuanzi_value_site_uv" style="font-variant-numeric: tabular-nums;">…</strong>
+  </span>
+  <span>
+    <i class="fas fa-file-alt" style="margin-right: 0.3em;"></i>
+    Page views: <strong id="busuanzi_value_site_pv" style="font-variant-numeric: tabular-nums;">…</strong>
+  </span>
+  <noscript> <em style="color:#888">(JavaScript required to display live counts)</em></noscript>
+</div>

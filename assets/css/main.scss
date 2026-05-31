@@ -42,49 +42,45 @@
 
 .paper-box {
     display: flex;
-    justify-content: left;
-    align-items: center;
     flex-direction: row;
-    flex-wrap: wrap;
-    border-bottom: 1px #efefef solid;
-    padding: 2em 0 2em 0;
-    
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 1.2em;
+    border-bottom: none;
+    padding: 1.5em 0;
 
-    .paper-box-image{
-        justify-content: center;
+    .paper-box-image {
+        flex-shrink: 0;
+        flex-grow: 0;
+        width: 160px;
+        min-width: 160px;
         display: flex;
-        width: 100%;
-        order: 2;
+        align-items: flex-start;
+        justify-content: flex-start;
         img {
-            max-width: 400px;
-            box-shadow: 3px 3px 6px #888;
-            object-fit: cover;
+            width: 160px;
+            height: auto;
+            max-height: 200px;
+            object-fit: contain;
+            border-radius: 8px;
+            box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.1);
         }
     }
-    
-    .paper-box-text{
-        max-width: 100%;
-        order: 1;
-    }
-    
-    @include breakpoint($medium) {
-        .paper-box-image{
-            justify-content: left;
-            min-width: 200px;
-            max-width: 40%;
-            order: 1;
-        }
-        
-        .paper-box-text{
-            justify-content: left;
-            padding-left: 2em;
-            max-width: 60%;
-            order: 2;
-        }
 
+    .paper-box-text {
+        flex: 1;
+        min-width: 0;
     }
 
-
+    @media screen and (max-width: 600px) {
+        flex-direction: column;
+        align-items: center;
+        .paper-box-image {
+            width: auto;
+            min-width: unset;
+        }
+    }
 }
 
 $scroll_offset : 2em;
@@ -106,4 +102,39 @@ h1:before, .anchor:before {
     color: white;
     background-color: #00369f;
     font-size: .8em;
+}
+
+.internship-logos {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 1.5em;
+    margin: 1em 0 1.5em 0;
+
+    img {
+        height: 40px;
+        max-height: 40px;
+        width: auto;
+        object-fit: contain;
+    }
+}
+
+.education-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 1em;
+
+    .education-logo {
+        flex: 0 0 64px;
+        margin-right: 1em;
+        img {
+            width: 64px;
+            height: 64px;
+            object-fit: contain;
+        }
+    }
+
+    .education-text {
+        flex: 1;
+    }
 }
