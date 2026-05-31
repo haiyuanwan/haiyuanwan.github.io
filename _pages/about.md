@@ -20,7 +20,7 @@ redirect_from:
 
 I am currently a PhD student in Data Science and Information Technology at [Tsinghua University](https://www.tsinghua.edu.cn/), devoted to advancing general-purpose agents that can perceive, reason, and act. My main focus is on scientific reasoning, world models, and multi-agent systems. Prior to this, I earned my B.Eng. in Communication Engineering from [East China Normal University](https://www.ecnu.edu.cn/).
 
-From May 2025, I have been a Research Intern at the PRIME-RL Team of [Shanghai AI Laboratory](https://www.shlab.org.cn/), where I work on **post-training of foundation models**. Before that, I was a visiting student at the [Qing Yuan Research Institute, Shanghai Jiao Tong University](https://qingyuan.sjtu.edu.cn/).
+From May 2025, I have been a Research Intern at the PRIME-RL Team of [Shanghai AI Laboratory](https://www.shlab.org.cn/), working with [Ganqu Cui](https://cgq15.github.io/) and Prof. [Ning Ding](https://www.stingning.cn/) on post-training of foundation models. Before that, I was a visiting student at the [Qing Yuan Research Institute, Shanghai Jiao Tong University](https://qingyuan.sjtu.edu.cn/), working with Prof. [Guohao Dai](https://dai.sjtu.edu.cn/pepledetail.html?id=218). I also maintain long-term collaborations with [Junchi Yu](https://samyu0304.github.io/) and Prof. [Philip Torr](https://scholar.google.com/citations?user=kPxa2w0AAAAJ&hl=zh-CN) at the University of Oxford.
 
 My recent work spans scientific reasoning, world models and embodied AI, multi-agent systems, and efficient / continual LLMs.
 
