@@ -235,6 +235,6 @@ Jianbao Cao†, Zhangrui Zhao†, Bohan Feng†, Zixuan Hu, Rui Li, **Haiyuan Wa
 
 # 📊 Visitor Statistics
 
-<div class="visitor-stats" style="margin: 2em auto; padding: 0.75em; background: #f8f9fa; border-radius: 8px; border: 1px solid #e9ecef; width: 100%; max-width: 500px; line-height: 0;">
+<div class="visitor-stats" style="margin: 2em auto; width: 100%; max-width: 500px; line-height: 0;">
   <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=kB96-8_SN94hOOXrYqCd5ETfatWQ4VHpZ7-UoEjsY3g&cl=ffffff&w=a"></script>
 </div>
