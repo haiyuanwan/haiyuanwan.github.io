@@ -235,21 +235,8 @@ Jianbao Cao†, Zhangrui Zhao†, Bohan Feng†, Zixuan Hu, Rui Li, **Haiyuan Wa
 
 # 📊 Visitor Statistics
 
-<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-
-<div class="visitor-stats" style="margin: 2em 0; padding: 1.5em; background: #f8f9fa; border-radius: 8px; border: 1px solid #e9ecef; display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 1.5em; font-size: 0.95em;">
-  <div class="visitor-counts" style="flex: 1 1 220px; min-width: 220px; text-align: center;">
-    <div style="margin-bottom: 0.6em;">
-      <i class="fas fa-user" style="margin-right: 0.3em;"></i>
-      Total visitors: <strong id="busuanzi_value_site_uv" style="font-variant-numeric: tabular-nums;">…</strong>
-    </div>
-    <div>
-      <i class="fas fa-file-alt" style="margin-right: 0.3em;"></i>
-      Page views: <strong id="busuanzi_value_site_pv" style="font-variant-numeric: tabular-nums;">…</strong>
-    </div>
-    <noscript> <em style="color:#888">(JavaScript required to display live counts)</em></noscript>
-  </div>
-  <div class="visitor-map" style="flex: 1 1 320px; min-width: 280px; text-align: center;">
+<div class="visitor-stats" style="margin: 2em 0; padding: 1.5em; background: #f8f9fa; border-radius: 8px; border: 1px solid #e9ecef; text-align: center;">
+  <div class="visitor-map" style="width: 100%; max-width: 560px; margin: 0 auto;">
     <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=kB96-8_SN94hOOXrYqCd5ETfatWQ4VHpZ7-UoEjsY3g&cl=ffffff&w=a"></script>
   </div>
 </div>
