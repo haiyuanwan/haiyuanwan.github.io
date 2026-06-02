@@ -1,9 +1,8 @@
 name: Get Citation Data
 
-on: 
- page_build: 
- schedule:
-  - cron:  '0 8 * * *'
+# Auto triggers (page_build + daily schedule) disabled; run manually from the Actions tab when needed.
+on:
+  workflow_dispatch:
 
 jobs:
   build:
