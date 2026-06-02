@@ -12,6 +12,9 @@ main:
   - title: "Publications"
     url: "/#-selected-publications"
 
+  - title: "Demos"
+    url: "/#-demos"
+
   - title: "Internships"
     url: "/#-internships"
 

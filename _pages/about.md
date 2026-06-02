@@ -30,8 +30,11 @@ I am actively looking for research collaborations and discussions. Feel free to 
 - *2026.04*: 🎉 One paper accepted to **ACL 2026** (Multi-Agent MCTS for LLM Inductive Reasoning).
 - *2026.04*: 🎉 Two papers accepted to **ICML 2026** ([HiPhO](#paper-hipho), [LabBuilder](#paper-labbuilder)).
 - *2026.04*: 🎉 One paper accepted to **IJCAI 2026** (SDFLoRA).
+- *2026.03*: 🎉 [**Autonomous Laboratory Agent**](#paper-vla) demo released — an embodied Vision-Language-Action agent that autonomously performs wet-lab chemistry experiments.
 - *2026.02*: 🎉 [**P1-VL-235B-A22B**](#paper-p1-vl) released — extending P1 to multimodal physics reasoning with visual perception.
 - *2026.01*: 🎉 One paper accepted to **ICLR 2026** ([From What to Why](#paper-from-what-to-why)).
+- *2025.12*: 📰 [**From Tokens to Frames**](#paper-tokens-to-frames) highlighted by [**量子位**](https://mp.weixin.qq.com/s/zXd2Hac5IuPzP_h75KlF5g).
+- *2025.11*: 📰 [**P1-235B-A22B**](#paper-p1) highlighted by [**量子位**](https://mp.weixin.qq.com/s/VS6cI7EhZRQwZRqMeqTgSg).
 - *2025.11*: 🎉 [**P1-235B-A22B**](#paper-p1) released — the first open-source physics reasoning model trained purely via reinforcement learning to attain **gold-medal performance on IPhO 2025**, sweeping **12 Gold + 1 Silver** across 13 international and regional physics olympiads and rivaling frontier closed-source systems such as GPT-5 and Gemini-2.5-Pro.
 - *2025.11*: 🎉 One paper accepted to **AAAI 2026** ([DeepResearch Arena](#paper-deepresearch-arena)).
 - *2025.09*: 🎉 One paper accepted to **NeurIPS 2025** ([Spotlight Attention](#paper-spotlight-attention)).
@@ -70,7 +73,8 @@ Shanghai AI Lab PRIME-RL Team · **Haiyuan Wan** (Core Contributor)
 [<i class="fas fa-file-pdf"></i> **Paper**](https://arxiv.org/pdf/2511.13612) &nbsp;·&nbsp;
 [<i class="fab fa-github"></i> **Code**](https://github.com/PRIME-RL/P1) &nbsp;·&nbsp;
 [<img src="images/icons/huggingface.svg" style="height:1em;vertical-align:-0.15em"> **P1-235B-A22B**](https://huggingface.co/PRIME-RL/P1-235B-A22B) &nbsp;·&nbsp;
-[<img src="images/icons/huggingface.svg" style="height:1em;vertical-align:-0.15em"> **P1-30B-A3B**](https://huggingface.co/PRIME-RL/P1-30B-A3B)
+[<img src="images/icons/huggingface.svg" style="height:1em;vertical-align:-0.15em"> **P1-30B-A3B**](https://huggingface.co/PRIME-RL/P1-30B-A3B) &nbsp;·&nbsp;
+[<img src="images/icons/qbitai.jpg" style="height:1em;vertical-align:-0.15em"> **量子位**](https://mp.weixin.qq.com/s/VS6cI7EhZRQwZRqMeqTgSg)
 </div>
 </div>
 
@@ -148,7 +152,7 @@ Cheng Yang, Jiaxuan Lu, **Haiyuan Wan**, Junchi Yu, Feiwei Qin.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/papers/fromtokenstoframes.png' alt="From Tokens to Frames" width="100%"></div></div>
+<div class='paper-box' id="paper-tokens-to-frames"><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/papers/fromtokenstoframes.png' alt="From Tokens to Frames" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **From Tokens to Frames: Video Generation as a New Paradigm for Spatial Reasoning.**
@@ -161,7 +165,8 @@ Cheng Yang†, **Haiyuan Wan**†, Yiran Peng†, Xin Cheng, Zhaoyang Yu, Jiayi 
 [<i class="fas fa-file-pdf"></i> **Paper**](https://arxiv.org/pdf/2511.15065) &nbsp;·&nbsp;
 [<i class="fab fa-github"></i> **Code**](https://github.com/FoundationAgents/VR-Bench) &nbsp;·&nbsp;
 [<img src="images/icons/huggingface.svg" style="height:1em;vertical-align:-0.15em"> **Dataset**](https://huggingface.co/datasets/amagipeng/VR-Bench) &nbsp;·&nbsp;
-[<img src="images/icons/huggingface.svg" style="height:1em;vertical-align:-0.15em"> **Wan-R1**](https://huggingface.co/HY-Wan/Wan-R1)
+[<img src="images/icons/huggingface.svg" style="height:1em;vertical-align:-0.15em"> **Wan-R1**](https://huggingface.co/HY-Wan/Wan-R1) &nbsp;·&nbsp;
+[<img src="images/icons/qbitai.jpg" style="height:1em;vertical-align:-0.15em"> **量子位**](https://mp.weixin.qq.com/s/zXd2Hac5IuPzP_h75KlF5g)
 </div>
 </div>
 
@@ -215,6 +220,21 @@ Jianbao Cao†, Zhangrui Zhao†, Bohan Feng†, Zixuan Hu, Rui Li, **Haiyuan Wa
 <span style="color:#c00000">(† equal contribution) International Conference on Machine Learning (<strong>ICML</strong>), 2026.</span>
 
 [<i class="fas fa-file-pdf"></i> **Paper**](https://arxiv.org/pdf/2605.02288)
+</div>
+</div>
+
+# 🎬 Demos
+
+<div class='paper-box' id="paper-vla"><div class='paper-box-image'><div><div class="badge">Demo</div><video src='images/papers/vla.mp4' poster='images/papers/vla.png' autoplay loop muted playsinline preload="metadata" aria-label="Autonomous Laboratory Agent" style="width: 100%; display: block;"></video></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Autonomous Laboratory Agent**
+
+Shanghai AI Lab Physical Intelligence Center · **Haiyuan Wan** (Core Contributor)
+
+<span style="color:#c00000">*Demo, 2026.*</span>
+
+[<img src="images/icons/xiaohongshu.png" style="height:1em;vertical-align:-0.15em"> **Demo**](http://xhslink.com/o/4c6PidxbvbT)
 </div>
 </div>
 
