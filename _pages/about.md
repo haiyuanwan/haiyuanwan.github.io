@@ -20,7 +20,7 @@ redirect_from:
 
 I am currently a PhD student in Data Science and Information Technology at [Tsinghua University](https://www.tsinghua.edu.cn/), devoted to advancing general-purpose agents that can perceive, reason, and act. My main focus is on scientific reasoning, world models, and multi-agent systems. Prior to this, I earned my B.Eng. in Communication Engineering from [East China Normal University](https://www.ecnu.edu.cn/).
 
-From May 2025, I have been a Research Intern at the PRIME-RL Team of [Shanghai AI Laboratory](https://www.shlab.org.cn/), working with [Ganqu Cui](https://cgq15.github.io/) and Prof. [Ning Ding](https://www.stingning.cn/) on post-training of foundation models. Before that, I was a visiting student at the [Qing Yuan Research Institute, Shanghai Jiao Tong University](https://qingyuan.sjtu.edu.cn/), working with Prof. [Guohao Dai](https://dai.sjtu.edu.cn/pepledetail.html?id=218). I also maintain long-term collaborations with [Junchi Yu](https://samyu0304.github.io/) and Prof. [Philip Torr](https://scholar.google.com/citations?user=kPxa2w0AAAAJ&hl=zh-CN) at the University of Oxford.
+Since May 2026, I have been a Research Intern at Alibaba ATH Token Foundry, working on video world models. Previously, I was a Research Intern at the PRIME-RL Team of [Shanghai AI Laboratory](https://www.shlab.org.cn/), working with [Ganqu Cui](https://cgq15.github.io/) and Prof. [Ning Ding](https://www.stingning.cn/) on post-training of foundation models. Before that, I was a visiting student at the [Qing Yuan Research Institute, Shanghai Jiao Tong University](https://qingyuan.sjtu.edu.cn/), working with Prof. [Guohao Dai](https://dai.sjtu.edu.cn/pepledetail.html?id=218). I also maintain long-term collaborations with [Junchi Yu](https://samyu0304.github.io/) and Prof. [Philip Torr](https://scholar.google.com/citations?user=kPxa2w0AAAAJ&hl=zh-CN) at the University of Oxford.
 
 My recent work spans scientific reasoning, world models and embodied AI, multi-agent systems, and efficient / continual LLMs.
 
@@ -242,9 +242,11 @@ Shanghai AI Lab Physical Intelligence Center · **Haiyuan Wan** (Core Contributo
 
 <div class="internship-logos">
   <!-- 调整 logo 高度：改 inline style 里的 px 数字即可 -->
+  <img src="images/alibaba.png" alt="Alibaba" style="height: 46px !important; max-height: 46px !important;" />
   <img src="images/sail.jpg" alt="Shanghai AI Laboratory" style="height: 50px !important; max-height: 50px !important;" />
 </div>
 
+- **May 2026 – Present:** Alibaba ATH · Research Intern · Token Foundry · Video world models
 - **May 2025 – May 2026:** [Shanghai AI Laboratory](https://www.shlab.org.cn/) · Research Intern · PRIME-RL Team · Post-training of foundation models
 
 # 🎖 Honors and Awards
