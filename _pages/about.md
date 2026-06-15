@@ -242,12 +242,12 @@ Shanghai AI Lab Physical Intelligence Center · **Haiyuan Wan** (Core Contributo
 
 <div class="internship-logos">
   <!-- 调整 logo 高度：改 inline style 里的 px 数字即可 -->
+  <img src="images/sail.webp" alt="Shanghai AI Laboratory" style="height: 50px !important; max-height: 50px !important;" />
   <img src="images/alibaba.png" alt="Alibaba" style="height: 46px !important; max-height: 46px !important;" />
-  <img src="images/sail.jpg" alt="Shanghai AI Laboratory" style="height: 50px !important; max-height: 50px !important;" />
 </div>
 
-- **May 2026 – Present:** Alibaba ATH · Research Intern · Token Foundry · Video world models
 - **May 2025 – May 2026:** [Shanghai AI Laboratory](https://www.shlab.org.cn/) · Research Intern · PRIME-RL Team · Post-training of foundation models
+- **May 2026 – Present:** Alibaba ATH · Research Intern · Token Foundry · Video world models
 
 # 🎖 Honors and Awards
 - **Junhao Foundation Soaring Scholarship** — Presented by Academician Chu Junhao; the only undergraduate awardee.
