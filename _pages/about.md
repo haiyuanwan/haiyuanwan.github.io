@@ -27,6 +27,7 @@ My recent work spans scientific reasoning, world models and embodied AI, multi-a
 I am actively looking for research collaborations and discussions. Feel free to reach out! ([wanhy24@mails.tsinghua.edu.cn](mailto:wanhy24@mails.tsinghua.edu.cn)).
 
 # 🔥 News
+- *2026.06*: 🎉 [**P1-VL**](#paper-p1-vl) accepted to the **3rd AI for Math Workshop: Toward Self-Evolving Scientific Agents** at **ICML 2026**.
 - *2026.04*: 🎉 One paper accepted to **IJCAI 2026** (SDFLoRA).
 - *2026.04*: 🎉 Two papers accepted to **ICML 2026** ([HiPhO](#paper-hipho), [LabBuilder](#paper-labbuilder)).
 - *2026.04*: 🎉 One paper accepted to **ACL 2026** (Multi-Agent MCTS for LLM Inductive Reasoning).
