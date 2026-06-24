@@ -27,6 +27,7 @@ My recent work spans scientific reasoning, world models and embodied AI, multi-a
 I am actively looking for research collaborations and discussions. Feel free to reach out! ([wanhy24@mails.tsinghua.edu.cn](mailto:wanhy24@mails.tsinghua.edu.cn)).
 
 # 🔥 News
+- *2026.06*: 🎬 [**HappyOyster 1.0**](#demo-happyoyster) released — a project I contributed to during my Alibaba ATH Token Foundry internship.
 - *2026.06*: 🎉 One paper accepted to the **3rd AI for Math Workshop: Toward Self-Evolving Scientific Agents** at **ICML 2026** ([P1-VL](#paper-p1-vl)).
 - *2026.04*: 🎉 One paper accepted to **IJCAI 2026** (SDFLoRA).
 - *2026.04*: 🎉 Two papers accepted to **ICML 2026** ([HiPhO](#paper-hipho), [LabBuilder](#paper-labbuilder)).
@@ -226,6 +227,25 @@ Jianbao Cao†, Zhangrui Zhao†, Bohan Feng†, Zixuan Hu, Rui Li, **Haiyuan Wa
 
 # 🎬 Demos
 
+<div class='paper-box' id="demo-happyoyster"><div class='paper-box-image'><div><div class="badge">Demo</div><img src='images/alibaba.png' alt="HappyOyster 1.0" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**HappyOyster 1.0**
+
+Alibaba ATH Token Foundry · **Haiyuan Wan** (Contributor)
+
+<span style="color:#c00000">*Demo, 2026.*</span>
+
+Trailer: [**Weibo**](https://weibo.com/9090279672/5310843029817712) &nbsp;·&nbsp;
+[**WeChat Channels**](https://weixin.qq.com/sph/AnwMFZOEF) &nbsp;·&nbsp;
+[<img src="images/icons/xiaohongshu.png" style="height:1em;vertical-align:-0.15em"> **Xiaohongshu**](https://www.xiaohongshu.com/discovery/item/6a3261f600000000110048ea?source=webshare&xhsshare=pc_web&xsec_token=ABfth232KqXeJhWffKUoa13TAy0ISoJZcAHmMsIoGiSlI=&xsec_source=pc_share) &nbsp;·&nbsp;
+[**Bilibili**](https://www.bilibili.com/video/BV127LX6vESD/?share_source=copy_web&vd_source=e3a052b62d5b588c1854aa8c16d66180) &nbsp;·&nbsp;
+[<i class="fab fa-twitter"></i> **X**](https://x.com/HappyOysterAI/status/2067172393202983023?s=20) &nbsp;·&nbsp;
+[<i class="fab fa-youtube"></i> **YouTube**](https://youtu.be/ibyvWudfg_w) &nbsp;·&nbsp;
+[<i class="fab fa-instagram"></i> **Instagram**](https://www.instagram.com/reel/DZrohqdsnHp/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
+</div>
+</div>
+
 <div class='paper-box' id="paper-vla"><div class='paper-box-image'><div><div class="badge">Demo</div><video src='images/papers/vla.mp4' poster='images/papers/vla.png' autoplay loop muted playsinline preload="metadata" aria-label="Autonomous Laboratory Agent" style="width: 100%; display: block;"></video></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -248,7 +268,7 @@ Shanghai AI Lab Physical Intelligence Center · **Haiyuan Wan** (Core Contributo
 </div>
 
 - **May 2025 – May 2026:** [Shanghai AI Laboratory](https://www.shlab.org.cn/) · Research Intern · PRIME-RL Team · Post-training of foundation models
-- **May 2026 – Present:** Alibaba ATH · Research Intern · Token Foundry · Video world models
+- **May 2026 – Present:** Alibaba ATH · Research Intern · Token Foundry · Video world models; contributed to [**HappyOyster 1.0**](#demo-happyoyster)
 
 # 🎖 Honors and Awards
 - **Junhao Foundation Soaring Scholarship** — Presented by Academician Chu Junhao; the only undergraduate awardee.
