@@ -269,7 +269,7 @@ Shanghai AI Lab Physical Intelligence Center · **Haiyuan Wan** (Core Contributo
 </div>
 
 - **May 2025 – May 2026:** [Shanghai AI Laboratory](https://www.shlab.org.cn/) · Research Intern · PRIME-RL Team · Post-training of foundation models
-- **Started May 2026 · Completed:** Alibaba ATH · Research Intern · Token Foundry · Video world models; contributed to [**HappyOyster 1.0**](#demo-happyoyster)
+- **May 2026 – Oct. 2026:** Alibaba ATH · Research Intern · Token Foundry · Video world models; contributed to [**HappyOyster 1.0**](#demo-happyoyster)
 - **Oct. 2026 – Present:** JD Explore Academy · TGT Intern · VLM Foundation Model Team
 
 # 🎖 Honors and Awards
