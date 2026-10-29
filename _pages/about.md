@@ -20,13 +20,14 @@ redirect_from:
 
 I am currently a PhD student in Data Science and Information Technology at [Tsinghua University](https://www.tsinghua.edu.cn/), devoted to advancing general-purpose agents that can perceive, reason, and act. My main focus is on scientific reasoning, world models, and multi-agent systems. Prior to this, I earned my B.Eng. in Communication Engineering from [East China Normal University](https://www.ecnu.edu.cn/).
 
-Since May 2026, I have been a Research Intern at Alibaba ATH Token Foundry, working on video world models. Previously, I was a Research Intern at the PRIME-RL Team of [Shanghai AI Laboratory](https://www.shlab.org.cn/), working with [Ganqu Cui](https://cgq15.github.io/) and Prof. [Ning Ding](https://www.stingning.cn/) on post-training of foundation models. Before that, I was a visiting student at the [Qing Yuan Research Institute, Shanghai Jiao Tong University](https://qingyuan.sjtu.edu.cn/), working with Prof. [Guohao Dai](https://dai.sjtu.edu.cn/pepledetail.html?id=218). I also maintain long-term collaborations with [Junchi Yu](https://samyu0304.github.io/) and Prof. [Philip Torr](https://scholar.google.com/citations?user=kPxa2w0AAAAJ&hl=zh-CN) at the University of Oxford.
+Since October 2026, I have been a TGT Intern at JD Explore Academy, working in the Vision-Language Model (VLM) Foundation Model Team. In May 2026, I joined Alibaba ATH Token Foundry as a Research Intern, working on video world models. Previously, I was a Research Intern at the PRIME-RL Team of [Shanghai AI Laboratory](https://www.shlab.org.cn/), working with [Ganqu Cui](https://cgq15.github.io/) and Prof. [Ning Ding](https://www.stingning.cn/) on post-training of foundation models. Before that, I was a visiting student at the [Qing Yuan Research Institute, Shanghai Jiao Tong University](https://qingyuan.sjtu.edu.cn/), working with Prof. [Guohao Dai](https://dai.sjtu.edu.cn/pepledetail.html?id=218). I also maintain long-term collaborations with [Junchi Yu](https://samyu0304.github.io/) and Prof. [Philip Torr](https://scholar.google.com/citations?user=kPxa2w0AAAAJ&hl=zh-CN) at the University of Oxford.
 
 My recent work spans scientific reasoning, world models and embodied AI, multi-agent systems, and efficient / continual LLMs.
 
 I am actively looking for research collaborations and discussions. Feel free to reach out! ([wanhy24@mails.tsinghua.edu.cn](mailto:wanhy24@mails.tsinghua.edu.cn)).
 
 # 🔥 News
+- *2026.10*: 💼 I joined **JD Explore Academy** as a **TGT Intern** in the **VLM Foundation Model Team**.
 - *2026.06*: 🎬 [**HappyOyster 1.0**](#demo-happyoyster) released — a project I contributed to during my Alibaba ATH Token Foundry internship.
 - *2026.06*: 🎉 One paper accepted to the **3rd AI for Math Workshop: Toward Self-Evolving Scientific Agents** at **ICML 2026** ([P1-VL](#paper-p1-vl)).
 - *2026.04*: 🎉 One paper accepted to **IJCAI 2026** (SDFLoRA).
@@ -269,6 +270,7 @@ Shanghai AI Lab Physical Intelligence Center · **Haiyuan Wan** (Core Contributo
 
 - **May 2025 – May 2026:** [Shanghai AI Laboratory](https://www.shlab.org.cn/) · Research Intern · PRIME-RL Team · Post-training of foundation models
 - **May 2026 – Present:** Alibaba ATH · Research Intern · Token Foundry · Video world models; contributed to [**HappyOyster 1.0**](#demo-happyoyster)
+- **Oct. 2026 – Present:** JD Explore Academy · TGT Intern · VLM Foundation Model Team
 
 # 🎖 Honors and Awards
 - **Junhao Foundation Soaring Scholarship** — Presented by Academician Chu Junhao; the only undergraduate awardee.
