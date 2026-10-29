@@ -266,6 +266,7 @@ Shanghai AI Lab Physical Intelligence Center · **Haiyuan Wan** (Core Contributo
   <!-- 调整 logo 高度：改 inline style 里的 px 数字即可 -->
   <img src="images/sail.webp" alt="Shanghai AI Laboratory" style="height: 50px !important; max-height: 50px !important;" />
   <img src="images/alibaba.png" alt="Alibaba" style="height: 46px !important; max-height: 46px !important;" />
+  <img src="images/jd.png" alt="JD / 京东" style="height: 44px !important; max-height: 44px !important;" />
 </div>
 
 - **May 2025 – May 2026:** [Shanghai AI Laboratory](https://www.shlab.org.cn/) · Research Intern · PRIME-RL Team · Post-training of foundation models
