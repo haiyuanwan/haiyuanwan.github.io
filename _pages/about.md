@@ -277,8 +277,32 @@ Shanghai AI Lab Physical Intelligence Center · **Haiyuan Wan** (Core Contributo
 - **Junhao Foundation Soaring Scholarship** — Presented by Academician Chu Junhao; the only undergraduate awardee.
 - **ECNU Outstanding Student Special Scholarship** — Sole recipient in the department, awarded for two consecutive years.
 
-# 💬 Services
+<span class="anchor" id="experience-and-service"></span>
+
+# 🌟 Experience and Service
+
+<div class="experience-service" id="experience-service">
+  <div class="experience-tabs" role="tablist" aria-label="Experience and Service categories" hidden>
+    <button type="button" role="tab" id="experience-tab-talent" aria-controls="experience-panel-talent" aria-selected="true" tabindex="0">Talent Programs</button>
+    <button type="button" role="tab" id="experience-tab-services" aria-controls="experience-panel-services" aria-selected="false" tabindex="-1">Services</button>
+  </div>
+
+<div class="experience-panel" id="experience-panel-talent" role="tabpanel" aria-labelledby="experience-tab-talent" tabindex="0" markdown="1">
+
+## Talent Programs
+- **JD TGT (Tech Genius Team) Talent Program (京东 TGT 人才计划)**
+
+</div>
+
+<div class="experience-panel" id="experience-panel-services" role="tabpanel" aria-labelledby="experience-tab-services" tabindex="0" markdown="1">
+
+<span class="anchor" id="-services"></span>
+
+## Services
 - **Reviewer:** ICML, NeurIPS, ICLR, AAAI, ECCV and other top-tier conferences/journals in computer vision, natural language processing, and machine learning.
+
+</div>
+</div>
 
 # 📊 Visitor Statistics
 

@@ -1,0 +1,80 @@
+.experience-tabs {
+  display: flex;
+  gap: 2em;
+  margin: 18px 0 12px;
+  border-bottom: 1px solid #e4e7eb;
+
+  [role="tab"] {
+    margin: 0 0 -1px;
+    padding: 10px 0 12px;
+    min-height: 48px;
+    border: 0;
+    border-bottom: 3px solid transparent;
+    border-radius: 0;
+    background: transparent;
+    box-shadow: none;
+    color: #707780;
+    font: inherit;
+    font-size: 0.95em;
+    font-weight: 600;
+    line-height: 1.4;
+    text-align: left;
+    cursor: pointer;
+
+    &:hover {
+      color: #1675b6;
+    }
+
+    &[aria-selected="true"] {
+      color: #182b3a;
+      border-bottom-color: #1675b6;
+    }
+  }
+}
+
+.experience-tabs [role="tab"]:focus-visible,
+.experience-panel:focus-visible {
+  outline: 2px solid #1675b6;
+  outline-offset: 4px;
+}
+
+.experience-panel {
+  scroll-margin-top: 80px;
+
+  > ul {
+    margin: 18px 0 28px;
+    padding-left: 1.25em;
+
+    > li {
+      padding-left: 0.15em;
+      line-height: 1.7;
+    }
+  }
+}
+
+.experience-service.is-enhanced .experience-panel > h2,
+.experience-tabs[hidden],
+.experience-panel[hidden] {
+  display: none;
+}
+
+@media (max-width: 600px) {
+  .experience-tabs {
+    gap: 16px;
+
+    [role="tab"] {
+      font-size: 0.85em;
+    }
+  }
+}
+
+@media print {
+  .experience-tabs {
+    display: none;
+  }
+
+  .experience-service.is-enhanced .experience-panel > h2,
+  .experience-panel[hidden] {
+    display: block;
+  }
+}
