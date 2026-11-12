@@ -20,7 +20,7 @@ redirect_from:
 
 I am currently a PhD student in Data Science and Information Technology at [Tsinghua University](https://www.tsinghua.edu.cn/), devoted to advancing general-purpose agents that can perceive, reason, and act. My main focus is on scientific reasoning, world models, and multi-agent systems. Prior to this, I earned my B.Eng. in Communication Engineering from [East China Normal University](https://www.ecnu.edu.cn/).
 
-Since October 2026, I have been an intern in JD's TGT (Tech Genius Team) talent program at JD Explore Academy, working with [Dr. Jiaqi Wang](https://myownskyw7.github.io/) in the Vision-Language Model (VLM) Foundation Model Team. Previously, I was a Research Intern at Alibaba ATH Token Foundry, working on video world models. Before that, I was a Research Intern at the PRIME-RL Team of [Shanghai AI Laboratory](https://www.shlab.org.cn/), working with [Ganqu Cui](https://cgq15.github.io/) and Prof. [Ning Ding](https://www.stingning.cn/) on post-training of foundation models. Earlier, I was a visiting student at the [Qing Yuan Research Institute, Shanghai Jiao Tong University](https://qingyuan.sjtu.edu.cn/), working with Prof. [Guohao Dai](https://dai.sjtu.edu.cn/pepledetail.html?id=218). I also maintain long-term collaborations with [Junchi Yu](https://samyu0304.github.io/) and Prof. [Philip Torr](https://scholar.google.com/citations?user=kPxa2w0AAAAJ&hl=zh-CN) at the University of Oxford.
+Since October 2026, I have been an intern in the Jingdong Top Young Technical Genius (TGT) Program (京东TGT人才计划) at JD Explore Academy, working with [Dr. Jiaqi Wang](https://myownskyw7.github.io/) in the Vision-Language Model (VLM) Foundation Model Team. Previously, I was a Research Intern at Alibaba ATH Token Foundry, working on video world models. Before that, I was a Research Intern at the PRIME-RL Team of [Shanghai AI Laboratory](https://www.shlab.org.cn/), working with [Ganqu Cui](https://cgq15.github.io/) and Prof. [Ning Ding](https://www.stingning.cn/) on post-training of foundation models. Earlier, I was a visiting student at the [Qing Yuan Research Institute, Shanghai Jiao Tong University](https://qingyuan.sjtu.edu.cn/), working with Prof. [Guohao Dai](https://dai.sjtu.edu.cn/pepledetail.html?id=218). I also maintain long-term collaborations with [Junchi Yu](https://samyu0304.github.io/) and Prof. [Philip Torr](https://scholar.google.com/citations?user=kPxa2w0AAAAJ&hl=zh-CN) at the University of Oxford.
 
 My recent work spans scientific reasoning, world models and embodied AI, multi-agent systems, and efficient / continual LLMs.
 
@@ -290,7 +290,7 @@ Shanghai AI Lab Physical Intelligence Center · **Haiyuan Wan** (Core Contributo
 <div class="experience-panel" id="experience-panel-talent" role="tabpanel" aria-labelledby="experience-tab-talent" tabindex="0" markdown="1">
 
 ## Talent Programs
-- **JD TGT (Tech Genius Team) Talent Program (京东 TGT 人才计划)**
+- **Jingdong Top Young Technical Genius (TGT) Program (京东TGT人才计划)**
 
 </div>
 
