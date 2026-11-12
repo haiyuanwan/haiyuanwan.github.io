@@ -271,7 +271,7 @@ Shanghai AI Lab Physical Intelligence Center · **Haiyuan Wan** (Core Contributo
 
 - **May 2025 – May 2026:** [Shanghai AI Laboratory](https://www.shlab.org.cn/) · Research Intern · PRIME-RL Team · Post-training of foundation models
 - **May 2026 – Oct. 2026:** Alibaba ATH · Research Intern · Token Foundry · Video world models; contributed to [**HappyOyster 1.0**](#demo-happyoyster)
-- **Oct. 2026 – Present:** JD Explore Academy · Intern (TGT Talent Program) · VLM Foundation Model Team
+- **Oct. 2026 – Present:** JD Explore Academy · Intern · Jingdong Top Young Technical Genius (TGT) Program (京东TGT人才计划) · VLM Foundation Model Team
 
 # 🎖 Honors and Awards
 - **Junhao Foundation Soaring Scholarship** — Presented by Academician Chu Junhao; the only undergraduate awardee.
